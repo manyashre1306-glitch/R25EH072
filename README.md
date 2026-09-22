@@ -15,3 +15,11 @@ I am an engineering student interested in software development, artificial intel
 - medicine shortage predictor
 - Web Development Projects
 - Automated Fire Fighting System
+
+## Education
+
+## Education
+
+- Bachelor of Engineering
+- Focus Areas: Artificial Intelligence, Software Development, Genrative AI , AI Automation and Emerging Technologies
+- Continuously learning through academic work, practical projects, and hands-on experimentation
