@@ -15,9 +15,7 @@ I am an engineering student interested in software development, artificial intel
 - medicine shortage predictor
 - Web Development Projects
 - Automated Fire Fighting System
-
-## Education
-
+  
 ## Education
 
 - Bachelor of Engineering
